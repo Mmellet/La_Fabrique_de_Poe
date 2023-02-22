@@ -3,6 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/note/</loc>
+    <lastmod>2023-01-21T10:01:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/nouvelle1/</loc>
     <lastmod>2023-02-21T10:01:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
