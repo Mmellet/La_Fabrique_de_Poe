@@ -165,11 +165,11 @@ Les affaires étant dans ce misérable état, de dégoût je quittai la place, e
 À propos de cette édition électronique
 
 
-Ce livre électronique est issu de la bibliothèque numérique Wikisource[1]. Cette bibliothèque numérique multilingue, construite par des bénévoles, a pour but de mettre à la disposition du plus grand nombre tout type de documents publiés (roman, poèmes, revues, lettres, etc.)
+Ce livre électronique est issu de la bibliothèque numérique Wikisource[^4]. Cette bibliothèque numérique multilingue, construite par des bénévoles, a pour but de mettre à la disposition du plus grand nombre tout type de documents publiés (roman, poèmes, revues, lettres, etc.)
 
-Nous le faisons gratuitement, en ne rassemblant que des textes du domaine public ou sous licence libre. En ce qui concerne les livres sous licence libre, vous pouvez les utiliser de manière totalement libre, que ce soit pour une réutilisation non commerciale ou commerciale, en respectant les clauses de la licence Creative Commons BY-SA 3.0[2] ou, à votre convenance, celles de la licence GNU FDL[3].
+Nous le faisons gratuitement, en ne rassemblant que des textes du domaine public ou sous licence libre. En ce qui concerne les livres sous licence libre, vous pouvez les utiliser de manière totalement libre, que ce soit pour une réutilisation non commerciale ou commerciale, en respectant les clauses de la licence Creative Commons BY-SA 3.0[^5] ou, à votre convenance, celles de la licence GNU FDL[^6].
 
-Wikisource est constamment à la recherche de nouveaux membres. N’hésitez pas à nous rejoindre. Malgré nos soins, une erreur a pu se glisser lors de la transcription du texte à partir du fac-similé. Vous pouvez nous signaler une erreur à cette adresse[4].
+Wikisource est constamment à la recherche de nouveaux membres. N’hésitez pas à nous rejoindre. Malgré nos soins, une erreur a pu se glisser lors de la transcription du texte à partir du fac-similé. Vous pouvez nous signaler une erreur à cette adresse[^7].
 
 Les contributeurs suivants ont permis la réalisation de ce livre :
 
@@ -183,13 +183,13 @@ Les contributeurs suivants ont permis la réalisation de ce livre :
 
 
 
-↑ http://fr.wikisource.org
+[^4]: http://fr.wikisource.org
 
-↑ http://creativecommons.org/licenses/by-sa/3.0/deed.fr
+[^5]: http://creativecommons.org/licenses/by-sa/3.0/deed.fr
 
-↑ http://www.gnu.org/copyleft/fdl.html
+[^6]: http://www.gnu.org/copyleft/fdl.html
 
-↑ http://fr.wikisource.org/wiki/Aide:Signaler_une_erreur
+[^7]: http://fr.wikisource.org/wiki/Aide:Signaler_une_erreur
 
 
 
