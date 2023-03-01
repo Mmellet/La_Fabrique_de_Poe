@@ -137,7 +137,7 @@ Dois-je essayer de décrire la terrible scène qui s’ensuivit ? Tout Vondervot
 
 « Qu’arrife-d-il tonc à mon phandre ? — glapirent tous les petits garçons, — chai vaim tébouis hine heire !
 
-— Qu’arrife-d-il tonc à mes joux ? crièrent toutes les phâmes ; — ils toiffent aître en pouillie tébouis hine heire !
+— Qu’arrife-d-il tonc à mes joux ? crièrent toutes les *phâmes* ; — ils toiffent aître en pouillie tébouis hine heire !
 
 — Qu’arrife-d-il tonc à mon bibe ? jurèrent tous les vieux petits messieurs, donnerre et églairs ! il toit aître édeint tébouis hine heire ! »
 
