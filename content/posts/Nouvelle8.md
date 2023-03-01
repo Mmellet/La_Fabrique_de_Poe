@@ -32,11 +32,8 @@ Exporté de Wikisource le 21 février 2023
 
 
 
-
-
-Quelle heure est-il ? 
-*Vieille locution*.
-
+Quelle heure est-il ?									
+*Vieille locution*
 
 
 
