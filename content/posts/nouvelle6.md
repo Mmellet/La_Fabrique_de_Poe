@@ -1,4 +1,4 @@
-+++ chapter = "Nouvelle 6" date = "2023-01-21T10:01:00.000+00:00" title = "Le Masque de la mort rouge" weight = 7 chapitre = "non" éditeur = Lili Ricke +++
++++ chapter = "Nouvelle 6" date = "2023-01-21T10:01:00.000+00:00" title = "Le Masque de la mort rouge" weight = 7 chapitre = "non" editor = "Lili Ricke" +++
 
 
 Le Masque de la mort rouge
