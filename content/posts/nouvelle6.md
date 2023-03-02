@@ -1,35 +1,25 @@
-+++ 
-chapter = "Nouvelle 6" 
-date = "2023-01-21T10:01:00.000+00:00" 
-title = "Le Masque de la mort rouge" 
-weight = 7 
-chapitre = "non" 
-editor = "Lili Ricke" 
++++
+chapter = "Nouvelle 6"
+date = "2023-01-21T10:01:00.000+00:00"
+title = "Le Masque de la mort rouge"
+weight = 7
+chapitre = "oui"
+editor = "Lili Ricke"
 +++
 
 
-Le Masque de la mort rouge
-Edgar Allan Poe
-A. Quantin, Paris, 1884
-Exporté de Wikisource le 21 février 2023
+
+![Edgar Allan Poe](/images/Edgar_Allan_Poe.jpg)
+
+## Le
+
+## MASQUE DE LA MORT ROUGE
+
+Nouvelle d'Edgar Allan Poe
 
 
 
-![Image](Edgar_Allan_Poe.jpg)
-
-# Le
-
-# MASQUE DE LA MORT ROUGE
-
-
-
-
-* * *
-
-
-
-
-La *Mort rouge* avait pendant longtemps dépeuplé la contrée. Jamais peste ne fut si fatale, si horrible. Son avatar, c’était le sang,  —  la rougeur et la hideur du sang. C’étaient des douleurs aiguës, un vertige soudain, et puis un suintement abondant par les pores, et la dissolution de l’être. Des taches pourpres sur le corps, et spécialement sur le visage de la victime, la mettaient au ban de l’humanité, et lui fermaient tout secours et toute sympathie. L’invasion, le progrès, le résultat de la maladie, tout cela était l’affaire d’une demi-heure.
+La *Mort rouge* avait pendant longtemps dépeuplé la contrée. Jamais peste ne fut si fatale, si horrible. Son [avatar](https://fr.wikipedia.org/wiki/Avatar), c’était le sang,  —  la rougeur et la hideur du sang. C’étaient des douleurs aiguës, un vertige soudain, et puis un suintement abondant par les pores, et la dissolution de l’être. Des taches pourpres sur le corps, et spécialement sur le visage de la [victime](https://fr.wikipedia.org/wiki/Victime), la mettaient au ban de l’humanité, et lui fermaient tout secours et toute sympathie. L’invasion, le progrès, le résultat de la [maladie](https://fr.wikipedia.org/wiki/Maladie), tout cela était l’affaire d’une demi-heure.
 
 Mais le prince Prospero était heureux, et intrépide, et sagace. Quand ses domaines furent à moitié dépeuplés, il convoqua un millier d’amis vigoureux et allègres de cœur, choisis parmi les chevaliers et les dames de sa cour, et se fit avec eux une retraite profonde dans une de ses abbayes fortifiées. C’était un vaste et magnifique bâtiment, une création du prince, d’un goût excentrique et cependant grandiose. Un mur épais et haut lui faisait une ceinture. Ce mur avait des portes de fer. Les courtisans, une fois entrés, se servirent de fourneaux et de solides marteaux pour souder les verrous. Ils résolurent de se barricader contre les impulsions soudaines du désespoir extérieur et de fermer toute issue aux frénésies du dedans. L’abbaye fut largement approvisionnée. Grâce à ces précautions, les courtisans pouvaient jeter le défi à la contagion. Le monde extérieur s’arrangerait comme il pourrait. En attendant, c’était folie de s’affliger ou de penser. Le prince avait pourvu à tous les moyens de plaisir. Il y avait des bouffons, il y avait des improvisateurs, des danseurs, des musiciens, il y avait le beau sous toutes ses formes, il y avait le vin. En dedans, il y avait toutes ces belles choses et la sécurité. Au dehors, la *Mort rouge*.
 
@@ -59,84 +49,44 @@ C’était dans la chambre de l’est ou chambre bleue, que se trouvait le princ
 
 C’était dans la chambre bleue que se tenait le prince, avec un groupe de pâles courtisans à ses côtés. D’abord, pendant qu’il parlait, il y eut parmi le groupe un léger mouvement en avant dans la direction de l’intrus, qui fut un instant presque à leur portée, et qui maintenant, d’un pas délibéré et majestueux, se rapprochait de plus en plus du prince. Mais, par suite d’une certaine terreur indéfinissable que l’audace insensée du masque avait inspirée à toute la société, il ne se trouva personne pour lui mettre la main dessus  ; si bien que, ne trouvant aucun obstacle, il passa à deux pas de la personne du prince  ; et, pendant que l’immense assemblée, comme obéissant à un seul mouvement, reculait du centre de la salle vers les murs, il continua sa route sans interruption, de ce même pas solennel et mesuré qui l’avait tout d’abord caractérisé, de la chambre bleue à la chambre pourpre,  — de la chambre pourpre à la chambre verte,  — de la verte à l’orange,  — de celle-ci à la blanche,  — et de celle-là à la violette, avant qu’on eût fait un mouvement décisif pour l’arrêter.
 
-Ce fut alors, toutefois, que le prince Prospero, exaspéré par la rage et la honte de sa lâcheté d’une minute, s’élança précipitamment à travers les six chambres, où nul ne le suivit  ; car une terreur mortelle s’était emparée de tout le monde. Il brandissait un poignard nu, et s’était approché impétueusement à une distance de trois ou quatre pieds du fantôme qui battait en retraite, quand ce dernier, arrivé à l’extrémité de la salle de velours, se retourna brusquement et fit face à celui qui le poursuivait. Un cri aigu partit,  — et le poignard glissa avec un éclair sur le tapis funèbre où le prince Prospero tombait mort une seconde après.
+Ce fut alors, toutefois, que le prince Prospero, exaspéré par la rage et la honte de sa lâcheté d’une minute, s’élança précipitamment à travers les six chambres, où nul ne le suivit  ; car une terreur mortelle s’était emparée de tout le monde. Il brandissait un poignard nu, et s’était approché impétueusement à une distance de trois ou quatre pieds du fantôme qui battait en retraite, quand ce dernier, arrivé à l’extrémité de la salle de velours, se retourna brusquement et fit face à celui qui le poursuivait. Un cri aigu partit,  — et le poignard glissa avec un éclair sur le tapis funèbre où le prince Prospero tombait mort une seconde après[^1].
+
+[^1]: Une triste fin pour le prince
 
 Alors, invoquant le courage violent du désespoir, une foule de masques se précipita à la fois dans la chambre noire  ; et, saisissant l’inconnu, qui se tenait, comme une grande statue, droit et immobile dans l’ombre de l’horloge d’ébène, ils se sentirent suffoqués par une terreur sans nom, en voyant que sous le linceul et le masque cadavéreux, qu’ils avaient empoigné avec une si violente énergie, ne logeait aucune forme palpable.
 
-On reconnut alors la présence de la *Mort rouge*. Elle était venue comme un voleur de nuit. Et tous les convives tombèrent un à un dans les salles de l’orgie inondées d’une rosée sanglante, et chacun mourut dans la posture désespérée de sa chute.
+On reconnut alors la présence de la *Mort rouge*. Elle était venue comme un voleur de nuit[^2]. Et tous les convives tombèrent un à un dans les salles de l’orgie inondées d’une rosée sanglante, et chacun mourut dans la posture désespérée de sa chute.
+
+[^2]: Ceci est un dispositif stylistique (une comparaison)
 
 Et la vie de l’horloge d’ébène disparut avec celle du dernier de ces êtres joyeux. Et les flammes des trépieds expirèrent. Et les ténèbres, et la ruine, et la *Mort rouge*, établirent sur toutes choses leur empire illimité.
 
-
-
-
+***
 
 À propos de cette édition électronique
 
 
-Ce livre électronique est issu de la bibliothèque numérique Wikisource[1]. Cette bibliothèque numérique multilingue, construite par des bénévoles, a pour but de mettre à la disposition du plus grand nombre tout type de documents publiés (roman, poèmes, revues, lettres, etc.)
+Ce livre électronique est issu de la bibliothèque numérique Wikisource[^3]. Cette bibliothèque numérique multilingue, construite par des bénévoles, a pour but de mettre à la disposition du plus grand nombre tout type de documents publiés (roman, poèmes, revues, lettres, etc.)
 
-Nous le faisons gratuitement, en ne rassemblant que des textes du domaine public ou sous licence libre. En ce qui concerne les livres sous licence libre, vous pouvez les utiliser de manière totalement libre, que ce soit pour une réutilisation non commerciale ou commerciale, en respectant les clauses de la licence Creative Commons BY-SA 3.0[2]ou, à votre convenance, celles de la licence GNU FDL[3].
+Nous le faisons gratuitement, en ne rassemblant que des textes du domaine public ou sous licence libre. En ce qui concerne les livres sous licence libre, vous pouvez les utiliser de manière totalement libre, que ce soit pour une réutilisation non commerciale ou commerciale, en respectant les clauses de la licence Creative Commons BY-SA 3.0[^4]ou, à votre convenance, celles de la licence GNU FDL[^5].
 
-Wikisource est constamment à la recherche de nouveaux membres. N’hésitez pas à nous rejoindre. Malgré nos soins, une erreur a pu se glisser lors de la transcription du texte à partir du fac-similé. Vous pouvez nous signaler une erreur à cette adresse[4].
+Wikisource est constamment à la recherche de nouveaux membres. N’hésitez pas à nous rejoindre. Malgré nos soins, une erreur a pu se glisser lors de la transcription du texte à partir du fac-similé. Vous pouvez nous signaler une erreur à cette adresse[^6].
 
-Les contributeurs[5] suivants ont permis la réalisation de ce livre[6]  :
+Les contributeurs suivants ont permis la réalisation de ce livre :
 
-Bzhqc
-
-Yann
-
-Hsarrazin
-
-Maltaper
-
-ThomasV
-
-Somerset
-
-Le ciel est par dessus le toit
-
-Reptilien.19831209BE1
-
-Pyb
-
-BeatrixBelibaste
-
-Aristoi
-
-Phe
-
-Aldebran~frwikisource
-
-Acélan
-
-Cantons-de-l'Est
-
-Hypperbone
-
-Nysalor
-
-M0tty
+[La liste des contributeurs a été omise, comme demandé.]
 
 
 
 
+[^3]: [http://fr.wikisource.org]
 
-* * *
+[^4]: [http://creativecommons.org/licenses/by-sa/3.0/deed.fr]
 
+[^5]: [http://www.gnu.org/copyleft/fdl.html]
 
+[^6]: [http://fr.wikisource.org/wiki/Aide:Signaler_une_erreur]
 
-↑ [1]  : [http://fr.wikisource.org]
-
-↑ [2]  : [http://creativecommons.org/licenses/by-sa/3.0/deed.fr]
-
-↑ [3]  : [http://www.gnu.org/copyleft/fdl.html]
-
-↑ [4]  : [http://fr.wikisource.org/wiki/Aide:Signaler_une_erreur]
-
-↑ [5]  : Pour être plus inclusif  : Les contributeurs et contributrices
-
-↑ [6]  : Ce livre physique et numérique
 
 
 
