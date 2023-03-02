@@ -5,14 +5,12 @@ title = "Le Roi Peste"
 weight = 8
 chapitre = "oui"
 editor = "Gabrielle Laforge"
+title_collection = "Nouvelles Histoires extraordinaires"
+director = "A. Quantin"
+date_origine = "1884"
+pages = "161-176"
+traductor = "Charles Baudelaire"
 +++
-
-Nouvelles Histoires extraordinaires
-A. Quantin, Paris, 1884 (p.161-176)
-traducteur : Charles Baudelaire
-
-
-
 
 
 
