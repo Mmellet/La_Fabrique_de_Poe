@@ -4,20 +4,12 @@ date = "2023-01-21T10:01:00.000+00:00"
 title = "Bérénice"
 weight = 6
 chapitre = "oui"
-editor = "Marie"
+autho = "Edgar Allan Poe"
+Translator = "Charles Baudelaire"
+editor = "Marie Perreault"
 +++
 
 
-
-
-
-					Edgar Allan Poe
-
-
-
-
-
-A. Quantin, Paris, 1884
 
 ![Image](https://fr.wikisource.org/wiki/Nouvelles_Histoires_extraordinaires/B%C3%A9r%C3%A9nice#/media/Fichier:Nouvelles_Histoires_extraordinaires,_p73.jpg)
 
@@ -27,10 +19,7 @@ A. Quantin, Paris, 1884
 
 
 
-
-Dicebant mihi sodales, si sepulchrum amicæ visitarem,
-
-curas meas aliquantulum fore levatas.[^1]
+Dicebant mihi sodales, si sepulchrum amicæ visitarem, curas meas aliquantulum fore levatas.[^1]
 
 Ebn Zaiat. 
 
@@ -46,7 +35,7 @@ C’est dans cette chambre que je suis né. Émergeant ainsi au milieu de la lon
 
 · · · · · · · · · · · · · · · · · · · · · · · ·
 
-Bérénice et moi, nous étions cousins, et nous grandîmes ensemble dans le manoir paternel. Mais nous grandîmes différemment, -- moi, maladif et enseveli dans ma mélancolie ; -- elle, agile, gracieuse et débordante d’énergie ; à elle, le vagabondage sur la colline ; -- à moi, les études du cloître ; moi, vivant dans mon propre cœur et me dévouant, corps et âme, à la plus intense et à la plus pénible méditation, -- elle, errant insoucieuse à travers la vie, sans penser aux ombres de son chemin ou à la fuite silencieuse des heures au noir plumage. Bérénice ! -- j’invoque son nom, -- Bérénice ! -- et des ruines grises de ma mémoire se dressent à ce son mille souvenirs tumultueux ! Ah ! son image est là vivante devant moi, comme dans les premiers jours de son allégresse et sa joie ! Oh ! magnifique et pourtant fantastique beauté ! Oh ! sylphes parmi les bocages d’Arnheim ! Oh ! naïade parmi ses fontaines ! Et puis, -- et puis tout est mystère et terreur, une histoire qui ne veut pas être racontée. Un mal, -- un mal fatal s’abattit sur sa constitution comme le simoun ; et même, pendant que je la contemplais, l’esprit de métamorphose passait sur elle et l’enlevait, pénétrant son esprit, ses habitudes, son caractère, et, de la manière la plus subtile et la plus terrible, perturbant même son identité ! Hélas ! le destructeur venait et s’en allait ; -- mais la victime, -- la vraie Bérénice, -- qu’est-elle devenue ? Je ne connaissais pas celle-ci, ou du moins je ne la reconnaissais plus comme Bérénice.
+Bérénice et moi, nous étions cousins, et nous grandîmes ensemble dans le manoir paternel. Mais nous grandîmes différemment, -- moi, maladif et enseveli dans ma mélancolie ; -- elle, agile, gracieuse et débordante d’énergie ; à elle, le vagabondage sur la colline ; -- à moi, les études du cloître ; moi, vivant dans mon propre cœur et me dévouant, corps et âme, à la plus intense et à la plus pénible méditation, -- elle, errant insoucieuse à travers la vie, sans penser aux ombres de son chemin ou à la fuite silencieuse des heures au noir plumage. Bérénice ! -- j’invoque son nom, -- Bérénice ! -- et des ruines grises de ma mémoire se dressent à ce son mille souvenirs tumultueux ! Ah ! son image est là vivante devant moi, comme dans les premiers jours de son allégresse et sa joie ! Oh ! magnifique et pourtant fantastique beauté ! Oh ! sylphes parmi les bocages d’Arnheim[^2] ! Oh ! [naïade](https://fr.wikipedia.org/wiki/Na%C3%AFades) parmi ses fontaines ! Et puis, -- et puis tout est mystère et terreur, une histoire qui ne veut pas être racontée. Un mal, -- un mal fatal s’abattit sur sa constitution comme le simoun ; et même, pendant que je la contemplais, l’esprit de métamorphose passait sur elle et l’enlevait, pénétrant son esprit, ses habitudes, son caractère, et, de la manière la plus subtile et la plus terrible, perturbant même son identité ! Hélas ! le destructeur venait et s’en allait ; -- mais la victime, -- la vraie Bérénice, -- qu’est-elle devenue ? Je ne connaissais pas celle-ci, ou du moins je ne la reconnaissais plus comme Bérénice.
 
 Parmi la nombreuse série de maladies amenées par cette fatale et principale attaque, qui opéra une si horrible révolution dans l’être physique et moral de ma cousine, il faut mentionner, comme la plus affligeante et la plus opiniâtre, une espèce d’épilepsie qui souvent se terminait en catalepsie, -- catalepsie ressemblant parfaitement à la mort, et dont elle se réveillait, dans quelques cas, d’une manière tout à fait brusque et soudaine. En même temps, mon propre mal, -- car on m’a dit que je ne pouvais pas l’appeler d’un autre nom, -- mon propre mal grandissait rapidement, et, ses symptômes s’aggravant par un usage immodéré de l’opium, il prit finalement le caractère d’une monomanie d’une forme nouvelle et extraordinaire. D’heure en heure, de minute en minute, il gagnait de l’énergie, et à la longue il usurpa sur moi la plus singulière et la plus incompréhensible domination. Cette monomanie, s’il faut que je me serve de ce terme, consistait dans une irritabilité morbide des facultés de l’esprit que la langue philosophique comprend dans le mot « faculté d’attention ». Il est plus que probable que je ne suis pas compris ; mais je crains, en vérité, qu’il ne me soit absolument impossible de donner au commun des lecteurs une idée exacte de cette nerveuse *intensité d’intérêt* avec laquelle, dans mon cas, la faculté méditative, -- pour éviter la langue technique, -- s’appliquait et se plongeait dans la contemplation des objets les plus vulgaires du monde.
 
@@ -95,3 +84,4 @@ Il regarda mes vêtements ; ils étaient grumeleux de boue et de sang. Sans dire
 [^1]: Voici une traduction faite sur Google Traduction :
 Mes amis m'ont dit, si je devais visiter la tombe de mon ami;
 mes inquiétudes seraient quelque peu soulagées.
+[^2]: Edgar Allan Poe parle de ce lieu dans sa nouvelle *Le domaine d'Arnheim*.
