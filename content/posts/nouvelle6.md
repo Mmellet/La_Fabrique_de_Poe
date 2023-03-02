@@ -149,10 +149,3 @@ M0tty
 ↑ [^5]  : Pour être plus inclusif  : Les contributeurs et contributrices
 
 ↑ [^6]  : Ce livre physique et numérique
-
-
-
-
-
-
-
