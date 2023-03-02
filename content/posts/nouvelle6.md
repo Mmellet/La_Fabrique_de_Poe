@@ -4,7 +4,7 @@ date = "2023-01-21T10:01:00.000+00:00"
 title = "Le Masque de la mort rouge" 
 weight = 7 
 chapitre = "non" 
-éditeur = "Lili Ricke" 
+editor = "Lili Ricke" 
 +++
 
 
