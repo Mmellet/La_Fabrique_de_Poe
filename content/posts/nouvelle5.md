@@ -18,7 +18,6 @@ editor = "Marie Perreault"
 
 
 
-
 Dicebant mihi sodales, si sepulchrum amicæ visitarem, curas meas aliquantulum fore levatas.[^1]
 
 Ebn Zaiat. 
