@@ -134,22 +134,9 @@ Toutefois, le grand matelot ne vit pas avec résignation la déconfiture de son 
 
 
 
-
 [^1]: N.d.É. : Le _humming-stuff_ se traduit ainsi : truc qui bourdonne. J'émets l'hypothèse qu'il s'agit d'un alcool qui, lorsque consommé, fait entendre un bourdonnement à celui qui l'a bu.
 
 [^2]: N.d.T. : Pas de crédit.
 
 [^3]: N.d.É. : Vive l'alcool.
-
-↑ http://fr.wikisource.org
-
-↑ http://creativecommons.org/licenses/by-sa/3.0/deed.fr
-
-↑ http://www.gnu.org/copyleft/fdl.html
-
-↑ http://fr.wikisource.org/wiki/Aide:Signaler_une_erreur
-
-
-
-
 
