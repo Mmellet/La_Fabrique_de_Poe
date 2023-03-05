@@ -4,8 +4,8 @@ date = "2023-01-21T10:01:00.000+00:00"
 title = "Bérénice"
 weight = 6
 chapitre = "oui"
-autho = "Edgar Allan Poe"
-Translator = "Charles Baudelaire"
+author = "Edgar Allan Poe"
+translator = "Charles Baudelaire"
 editor = "Marie Perreault"
 +++
 
