@@ -11,7 +11,7 @@ editor = "Marie Perreault"
 
 
 
-![Image](https://fr.wikisource.org/wiki/Nouvelles_Histoires_extraordinaires/B%C3%A9r%C3%A9nice#/media/Fichier:Nouvelles_Histoires_extraordinaires,_p73.jpg)
+![Image](/images/Bérénice_Nouvelles_Histoires_extraordinaires,_p73.jpg)
 
 
 # BÉRÉNICE

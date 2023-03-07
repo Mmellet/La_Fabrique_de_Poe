@@ -7,7 +7,9 @@ chapitre = "oui"
 editor = "Gabrielle Lahaie"
 +++
 
+
 ![image](/images/four-beasts-in-one-the-homo-cameleopard.jpg)
+
 
 
 ## QUATRE BÊTES EN UNE
@@ -28,6 +30,7 @@ Antiochus Épiphanes est généralement considéré comme le Gog du prophète É
 
 <div align="center">· · · · · · · · · · · · · · · · · · · · · · · ·
 
+  
 
 <div align="justify">Supposons, gracieux lecteur, que nous sommes en l’an du monde trois mil huit cent trente, et, pour quelques minutes, transportés dans le plus fantastique des habitacles humains, dans la remarquable cité d’Antioche. Il est certain qu’il y avait en Syrie et dans d’autres contrées seize villes de ce nom, sans compter celle dont nous avons spécialement à nous occuper. Mais la nôtre est celle qu’on appelait Antiochia Épidaphné, à cause qu’elle était tout proche du petit village de Daphné, où s’élevait un temple consacré à cette divinité. Elle fut bâtie (bien que la chose soit controversée) par Séleucus Nicator, le premier roi du pays après Alexandre le Grand, en mémoire de son père Antiochus, et devint immédiatement la capitale de la monarchie syrienne. Dans les temps prospères de l’empire romain, elle était la résidence ordinaire du préfet des provinces orientales ; et plusieurs empereurs de la cité reine (parmi lesquels peuvent être mentionnés spécialement Vérus et Valens), y passèrent la plus grande partie de leur vie. Mais je m’aperçois que nous sommes arrivés à la ville. Montons sur cette plate-forme, et jetons nos yeux sur la ville et le pays circonvoisin.
 
@@ -114,7 +117,9 @@ Qui font la grande gloire de cette cité.
 
 >Tantum vini habet nemo
 
+
 >Quantum sanguinis effudit[^1].
+
 
 
 « Ce qui peut être ainsi paraphrasé :
@@ -197,7 +202,6 @@ Qui font la grande gloire de cette cité.
 — Encore un moment ; je vois un vaste remue-ménage dans l’Hippodrome ; dites-moi, je vous en supplie, ce que cela signifie !
 
 — Cela ? — oh ! rien. Les nobles et libres citoyens d’Épidaphné étant, comme ils le déclarent, parfaitement satisfaits de la loyauté, de la bravoure, de la sagesse et de la divinité de leur Roi, et, de plus, ayant été témoins de sa récente agilité surhumaine, pensent qu’ils ne font que leur devoir en déposant sur son front (en surcroît du laurier poétique) une nouvelle couronne, prix de la course à pied, — couronne qu’il _faudra_ bien qu’il obtienne aux fêtes de la prochaine olympiade, et que naturellement ils lui décernent aujourd’hui par avance. »
-
 
 ***
 
