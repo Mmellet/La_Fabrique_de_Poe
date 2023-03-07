@@ -4,9 +4,12 @@ date = "2023-03-05T10:01:00.000+00:00"
 title = "Lionnerie"
 weight = 10
 chapitre = "oui"
+editor = Esther Favroux
+author = Edgar Allan Poe
+printer = A. Quantin
 +++
 
-Lionnerie
+#Lionnerie
 
 
 
@@ -19,13 +22,7 @@ Edgar Allan Poe
 A. Quantin, Paris, 1884
 
 
-
-
-
-Exporté de Wikisource le 5 mars 2023
-
-
-
+![Edgar Allan Poe](https://commons.wikimedia.org/wiki/File:Edgar_Allan_Poe;_a_Centenary_Tribute_-_Portrait_of_Edgar_Allan_Poe_p40.png)
 
 
 LIONNERIE
@@ -38,13 +35,13 @@ Tout le populaire se dressa Sur ses dix doigts de pied dans un étrange ébahiss
 
 
 
-L’évêque Hall. — Satires.
+L’évêque Hall. — *Satires*.
 
 
 
 
 
-Je suis, — c’est-à-dire j’étais un grand homme ; mais je ne suis ni l’auteur du Junius ni l’homme au masque de fer ; car mon nom est, je crois, Robert Jones, et je suis né quelque part dans la cité de Fum-Fudge.
+Je suis, — c’est-à-dire j’*étais* un grand homme ; mais je ne suis ni l’auteur du *Junius* ni l’homme au masque de fer ; car mon nom est, je crois, Robert Jones, et je suis né quelque part dans la cité de Fum-Fudge.
 
 La première action de ma vie fut d’empoigner mon nez à deux mains. Ma mère vit cela et m’appela un génie ; — mon père pleura de joie et me fit cadeau d’un traité de nosologie. Je le possédais à fond avant de porter des culottes.
 
@@ -58,33 +55,33 @@ Quand je fus arrivé à ma majorité, mon père me demanda un jour si je voulais
 
 — Et qu’est-ce que la nosologie, Robert ?
 
-— Monsieur, dis-je, c’est la science des nez[1].
+— Monsieur, dis-je, c’est la science des nez[^1].
 
-— Et pouvez-vous me dire, demanda-t-il, quel est le sens du mot nez ?
+— Et pouvez-vous me dire, demanda-t-il, quel est le sens du mot *nez* ?
 
 — Un nez, mon père, répliquai-je en baissant le ton, — a été défini diversement par un millier d’auteurs. (Ici, je tirai ma montre.) Il est maintenant midi, ou peu s’en faut, — nous avons donc le temps, d’ici à minuit, de les passer tous en revue. Je commence donc : — Le nez, suivant Bartholinus, est cette protubérance, cette bosse, cette excroissance, cette…
 
 — Cela va bien, Robert, interrompit le bon vieux gentleman. Je suis foudroyé par l’immensité de vos connaissances, — positivement je le suis, — oui, sur mon âme ! (Ici, il ferma les yeux et posa la main sur son cœur.) Approchez ! (Puis il me prit par le bras.) Votre éducation peut être considérée maintenant comme achevée, — il est grandement temps que vous vous poussiez dans le monde, — et vous n’avez rien de mieux à faire que de suivre simplement votre nez. — Ainsi — ainsi… (alors, il me conduisit à coups de pied tout le long des escaliers jusqu’à la porte), ainsi sortez de chez moi, et que Dieu vous assiste ! »
 
-Comme je sentais en moi l’afflatus divin, je considérai cet accident presque comme un bonheur. Je jugeai que l’avis paternel était bon. Je résolus de suivre mon nez. Je le tirai tout d’abord deux ou trois fois, et j’écrivis incontinent une brochure sur la nosologie.
+Comme je sentais en moi l’afflatus divin, je considérai cet accident presque comme un bonheur. Je jugeai que l’avis paternel était bon. Je résolus de suivre mon nez. Je le tirai tout d’abord deux ou trois fois, et j’écrivis incontinent une brochure sur la *nosologie*.
 
 Tout Fum-Fudge fut sens dessus dessous.
 
-« Étonnant génie ! dit le Quarterly.
+« Étonnant génie ! dit le *Quarterly*.
 
-— Admirable physiologiste ! dit le Westminster.
+— Admirable physiologiste ! dit le *Westminster*.
 
-— Habile gaillard ! dit le Foreign.
+— Habile gaillard ! dit le *Foreign*.
 
-— Bel écrivain ! dit l’Edinburgh.
+— Bel écrivain ! dit l’*Edinburgh*.
 
-— Profond penseur ! dit le Dublin.
+— Profond penseur ! dit le *Dublin*.
 
-— Grand homme ! dit Bentley.
+— Grand homme ! dit *Bentley*.
 
-— Âme divine ! dit Fraser.
+— Âme divine ! dit *Fraser*.
 
-— Un des nôtres ! dit Blackwood.
+— Un des nôtres ! dit *Blackwood*.
 
 — Qui peut-il être ? dit mistress Bas-Bleu.
 
@@ -94,7 +91,7 @@ Tout Fum-Fudge fut sens dessus dessous.
 
 Mais je n’accordai aucune attention à toute cette populace, — j’allai tout droit à l’atelier d’un artiste.
 
-La duchesse de Dieu-me-Bénisse posait pour son portrait ; le marquis de Tel-et-Tel tenait le caniche de la duchesse ; le comte de Choses-et-d’Autres jouait avec le flacon de sels de la dame, et Son Altesse Royale de Noli-me-Tangere se penchait sur le dos de son fauteuil.
+La duchesse de Dieu-me-Bénisse posait pour son portrait ; le marquis de Tel-et-Tel tenait le caniche de la duchesse ; le comte de Choses-et-d’Autres jouait avec le flacon de sels de la dame, et Son Altesse Royale de *Noli-me-Tangere* se penchait sur le dos de son fauteuil.
 
 Je m’approchai de l’artiste, et je dressai mon nez.
 
@@ -108,7 +105,7 @@ Je m’approchai de l’artiste, et je dressai mon nez.
 
 — Combien en voulez-vous ? demanda l’artiste.
 
-— De son nez ? s’écria Sa Grâce.
+— De son *nez* ? s’écria Sa Grâce.
 
 — Mille livres, dis-je en m’asseyant.
 
@@ -140,13 +137,13 @@ Je m’approchai de l’artiste, et je dressai mon nez.
 
 — Précisément, dis-je.
 
-— Mille livres ? dit-il.
+— *Mille* livres ? dit-il.
 
 — Juste, dis-je.
 
 — Vous les aurez, dit-il ; quel morceau capital !!! »
 
-Il me fit immédiatement un billet, et prit un croquis de mon nez. Je louai un appartement dans Jermyn street, et j’adressai à Sa Majesté la quatre-vingt-dix-neuvième édition de ma Nosologie, avec un portrait de la trompe.
+Il me fit immédiatement un billet, et prit un croquis de mon nez. Je louai un appartement dans *Jermyn street*, et j’adressai à Sa Majesté la quatre-vingt-dix-neuvième édition de ma *Nosologie*, avec un portrait de la trompe.
 
 Le prince de Galles, ce mauvais petit libertin, m’invita à dîner.
 
@@ -154,7 +151,7 @@ Nous étions tous Lions et gens du meilleur ton.
 
 Il y avait là un néoplatonicien. Il cita Porphyre, Jamblique, Plotin, Proclus, Hiéroclès, Maxime de Tyr, et Syrianus.
 
-Il y avait un professeur de perfectibilité humaine. Il cita Turgot, Price, Priestley, Condorcet, de Staël, et l’Ambitious Student in Ill Health.
+Il y avait un professeur de perfectibilité humaine. Il cita Turgot, Price, Priestley, Condorcet, de Staël, et l’*Ambitious Student in Ill Health*.
 
 Il y avait sir Positif Paradoxe. Il remarqua que tous les fous étaient philosophes, et que tous les philosophes étaient fous.
 
@@ -162,7 +159,7 @@ Il y avait Æsthéticus Éthix. Il parla de feu, d’unité et d’atomes ; d’
 
 Il y avait Théologos Théologie. Il bavarda sur Eusèbe et Arius ; sur l’hérésie et le concile de Nicée ; sur le puseyisme et le consubstantialisme ; sur Homoousios et Homoiousios.
 
-Il y avait Fricassée, du Rocher de Cancale. Il parla de langue à l’écarlate, de choux-fleurs à la sauce veloutée, de veau à la Sainte-Menehould, de marinade à la Saint-Florentin, et de gelées d’orange en mosaïque.
+Il y avait Fricassée, du Rocher de Cancale. Il parla de langue *à l’écarlate*, de choux-fleurs à la sauce *veloutée*, de veau à la Sainte-Menehould, de marinade à la Saint-Florentin, et de gelées d’orange *en mosaïque*.
 
 Il y avait Bibulus O’Bumper. Il dit son mot sur le latour et le markbrünnen, sur le champagne mousseux et le chambertin, sur le richebourg et le saint-georges, sur le haut-brion, le léoville et le médoc, sur le barsac et le preignac, sur le grave, sur le sauterne, sur le laffite et sur le saint-péray. Il hocha la tête à l’endroit du clos-vougeot, et se vanta de distinguer, les yeux fermés, le xérès de l’amontillado.
 
@@ -176,7 +173,7 @@ Il y avait Delphinus Polyglotte. Il nous dit ce qu’étaient devenus les quatre
 
 Il y avait Ferdinand Fitz-Fossillus Feldspar. Il nous renseigna sur les feux souterrains et les couches tertiaires ; sur les aériformes, les fluidiformes et les solidiformes ; sur le quartz et la marne ; sur le schiste et le schorl ; sur le gypse et le trapp ; sur le talc et le calcaire ; sur la blende et la horn-blende ; sur le micaschiste et le poudingue ; sur la cyanite et le lépidolithe ; sur l’hæmatite et la trémolite ; sur l’antimoine et la calcédoine ; sur le manganèse et sur tout ce qu’il vous plaira.
 
-Il y avait moi. Je parlai de moi, — de moi, de moi, et de moi ; — de nosologie, de ma brochure et de moi. Je dressai mon nez, et je parlai de moi.
+Il y avait MOI. Je parlai de moi, — de moi, de moi, et de moi ; — de nosologie, de ma brochure et de moi. Je dressai mon nez, et je parlai de moi.
 
 « Heureux homme ! homme miraculeux ! dit le prince.
 
@@ -210,19 +207,19 @@ Et, s’emparant fortement de moi avec ses deux mains, elle me baisa trois fois 
 
 Une sensation marquée parcourut immédiatement l’assemblée.
 
-« Diavolo ! cria le comte de Capricornutti.
+« *Diavolo* ! cria le comte de Capricornutti.
 
-— Dios guarda ! murmura don Stiletto.
+— *Dios guarda* ! murmura don Stiletto.
 
-— Mille tonnerres ! jura le prince de Grenouille.
+— *Mille tonnerres* ! jura le prince de Grenouille.
 
-— Mille tiaples ! » grogna l’électeur de Bluddennuff.
+— *Mille tiaples* ! » grogna l’électeur de Bluddennuff.
 
 Cela ne pouvait pas passer ainsi. Je me fâchai. Je me tournai brusquement vers Bluddennuff.
 
 « Monsieur ! lui dis-je, vous êtes un babouin.
 
-— Monsieur ! répliqua-t-il après une pause, Donnerre et églairs ! »
+— Monsieur ! répliqua-t-il après une pause, *Donnerre et églairs* ! »
 
 Je n’en demandais pas davantage. Nous échangeâmes nos cartes. À Chalk-Farm, le lendemain matin, je lui abattis le nez, — et puis je me présentai chez mes amis.
 
@@ -248,4 +245,5 @@ Je me sentis très mortifié de tout cela, et j’allai voir mon père.
 
 
 
-↑ Nose, nez. — Naseaulogie, nosologie. — C. B.
+↑ [^1]:Nose, nez. — Naseaulogie, nosologie. — C. B.
+
