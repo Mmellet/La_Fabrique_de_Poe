@@ -24,12 +24,12 @@ traductor = "Charles Baudelaire"
 <br>
 <br>
 
-> Les dieux souffrent et autorisent fort bien chez les rois les choses qui leur font horreur dans les chemins de la canaille.<br>Buckhurst. -- _Ferrex et Porrex_.
+> Les dieux souffrent et autorisent fort bien chez les rois les choses qui leur font horreur dans les chemins de la canaille. <br>Buckhurst. -- _Ferrex et Porrex_.
 
 <br>
 <br>
 
-Vers minuit environ, pendant une nuit du mois d’octobre, sous le règne chevaleresque d’Édouard III, deux matelots appartenant à l’équipage du Free-and-Easy, goëlette de commerce faisant le service entre l’Écluse (Belgique) et la Tamise, et qui était alors à l’ancre dans cette rivière, furent très émerveillés de se trouver assis dans la salle d’une taverne de la paroisse Saint-André, à Londres, — laquelle taverne portait pour enseigne la portraiture du Joyeux Loup de mer.
+Vers minuit environ, pendant une nuit du mois d’octobre, sous le règne chevaleresque d’[Édouard III](https://fr.wikipedia.org/wiki/%C3%89douard_III), deux matelots appartenant à l’équipage du Free-and-Easy, goëlette de commerce faisant le service entre l’Écluse (Belgique) et la Tamise, et qui était alors à l’ancre dans cette rivière, furent très émerveillés de se trouver assis dans la salle d’une taverne de la paroisse Saint-André, à Londres, — laquelle taverne portait pour enseigne la portraiture du Joyeux Loup de mer.
 
 
 La salle, quoique mal construite, noircie par la fumée, basse de plafond, et ressemblant d’ailleurs à tous les cabarets de cette époque, était néanmoins, dans l’opinion des groupes grotesques de buveurs disséminés çà et là, suffisamment bien appropriée à sa destination.
