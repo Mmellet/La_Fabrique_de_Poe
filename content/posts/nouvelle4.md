@@ -7,7 +7,7 @@ chapitre = "oui"
 editor = "Emma Pierron"
 +++
 
-![image](/static/images/Clarke-TellTaleHeart.jpeg)
+![image](/images/Clarke-TellTaleHeart.jpeg)
 
 
 
