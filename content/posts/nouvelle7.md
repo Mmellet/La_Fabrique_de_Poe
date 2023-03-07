@@ -24,7 +24,7 @@ traductor = "Charles Baudelaire"
 <br>
 <br>
 
-> Les dieux souffrent et autorisent fort bien chez les rois les choses qui leur font horreur dans les chemins de la canaille.<br>Buckhurst. -- _Ferrex et Porrex_.
+> Les dieux souffrent et autorisent fort bien chez les rois les choses qui leur font horreur dans les chemins de la canaille. <br>Buckhurst. -- _Ferrex et Porrex_.
 
 <br>
 <br>
