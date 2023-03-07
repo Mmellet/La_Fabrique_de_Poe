@@ -7,7 +7,7 @@ chapitre = "oui"
 editor = "Gabrielle Lahaie"
 +++
 
-[image](/images/four-beasts-in-one-the-homo-cameleopard.jpg)
+![image](/images/four-beasts-in-one-the-homo-cameleopard.jpg)
 gi
 
 
@@ -20,6 +20,7 @@ gi
 
 
 >Chacun a ses vertus. Crébillon. — Xerxès.
+
 
 
 
@@ -39,8 +40,11 @@ Antiochus Épiphanes est généralement considéré comme le Gog du prophète É
 
 
 >… rassasier vos yeux
+  
 Des souvenirs et des objets fameux
+  
 Qui font la grande gloire de cette cité.
+  
 
 
 « Je vous demande pardon ; j’avais oublié que Shakespeare ne fleurira pas avant dix-sept cent cinquante ans. Mais l’aspect d’Épidaphné ne justifie-t-il pas cette épithète de _fantastique_ que je lui ai donnée ?
@@ -111,7 +115,7 @@ Qui font la grande gloire de cette cité.
 
 >Tantum vini habet nemo
 
->Quantum sanguinis effudit ^1.
+>Quantum sanguinis effudit[^1].
 
 
 « Ce qui peut être ainsi paraphrasé :
