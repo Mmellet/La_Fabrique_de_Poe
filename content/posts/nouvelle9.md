@@ -13,13 +13,13 @@ printer = "A. Quantin"
 
 
 
-"Edgar Allan Poe"
+Edgar Allan Poe
 
 
 
 
 
-"A. Quantin", Paris, 1884
+A. Quantin, Paris, 1884
 
 
 ![Edgar Allan Poe](https://commons.wikimedia.org/wiki/File:Edgar_Allan_Poe;_a_Centenary_Tribute_-_Portrait_of_Edgar_Allan_Poe_p40.png)
@@ -157,9 +157,9 @@ Il y avait un professeur de perfectibilité humaine. Il cita Turgot, Price, Prie
 
 Il y avait sir Positif Paradoxe. Il remarqua que tous les fous étaient philosophes, et que tous les philosophes étaient fous.
 
-Il y avait Æsthéticus Éthix. Il parla de feu, d’unité et d’atomes ; d’âme double et préexistante ; d’affinité et d’antipathie ; d’intelligence primitive et d’homœomérie.
+Il y avait Æsthéticus Éthix. Il parla de feu, d’unité et d’atomes ; d’âme double et préexistante ; d’affinité et d’antipathie ; d’intelligence primitive et d’[homœomérie](https://en.wikipedia.org/wiki/Homoeomeria_(philosophy)).
 
-Il y avait Théologos Théologie. Il bavarda sur Eusèbe et Arius ; sur l’hérésie et le concile de Nicée ; sur le puseyisme et le consubstantialisme ; sur Homoousios et Homoiousios.
+Il y avait Théologos Théologie. Il bavarda sur Eusèbe et Arius ; sur l’hérésie et le concile de Nicée ; sur le puseyisme et le [consubstantialisme](https://fr.wiktionary.org/wiki/consubstantialisme) ; sur Homoousios et Homoiousios.
 
 Il y avait Fricassée, du Rocher de Cancale. Il parla de langue *à l’écarlate*, de choux-fleurs à la sauce *veloutée*, de veau à la Sainte-Menehould, de marinade à la Saint-Florentin, et de gelées d’orange *en mosaïque*.
 
@@ -173,7 +173,7 @@ Il y avait un Grand Turc de Stamboul. Il ne pouvait s’empêcher de croire que 
 
 Il y avait Delphinus Polyglotte. Il nous dit ce qu’étaient devenus les quatre-vingt-trois tragédies perdues d’Eschyle, les cinquante-quatre oraisons d’Isæus, les trois cent quatre-vingt-onze discours de Lysias, les cent quatre-vingts traités de Théophraste, le huitième livre des sections coniques d’Apollonius, les hymnes et dithyrambes de Pindare et les quarante-cinq tragédies d’Homère le Jeune.
 
-Il y avait Ferdinand Fitz-Fossillus Feldspar. Il nous renseigna sur les feux souterrains et les couches tertiaires ; sur les aériformes, les fluidiformes et les solidiformes ; sur le quartz et la marne ; sur le schiste et le schorl ; sur le gypse et le trapp ; sur le talc et le calcaire ; sur la blende et la horn-blende ; sur le micaschiste et le poudingue ; sur la cyanite et le lépidolithe ; sur l’hæmatite et la trémolite ; sur l’antimoine et la calcédoine ; sur le manganèse et sur tout ce qu’il vous plaira.
+Il y avait Ferdinand Fitz-Fossillus Feldspar. Il nous renseigna sur les feux souterrains et les couches tertiaires ; sur les aériformes, les fluidiformes et les solidiformes ; sur le quartz et la marne ; sur le schiste et le schorl ; sur le gypse et le trapp ; sur le talc et le calcaire ; sur la blende et la horn-blende ; sur le micaschiste et le poudingue ; sur la cyanite et le lépidolithe ; sur l’hæmatite et la [trémolite](https://fr.wikipedia.org/wiki/Tr%C3%A9molite) ; sur l’antimoine et la calcédoine ; sur le manganèse et sur tout ce qu’il vous plaira.
 
 Il y avait MOI. Je parlai de moi, —- de moi, de moi, et de moi ; —- de nosologie, de ma brochure et de moi. Je dressai mon nez, et je parlai de moi.
 
