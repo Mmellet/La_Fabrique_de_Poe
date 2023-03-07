@@ -8,7 +8,6 @@ editor = "Gabrielle Lahaie"
 +++
 
 ![image](/images/four-beasts-in-one-the-homo-cameleopard.jpg)
-gi
 
 
 ## QUATRE BÊTES EN UNE
