@@ -31,7 +31,9 @@ printer = "A. Quantin"
 
 
 
-Tout le populaire se dressa Sur ses dix doigts de pied dans un étrange ébahissement.
+> Tout le populaire se dressa 
+> Sur ses dix doigts de pied dans un étrange 
+> ébahissement.
 
 
 
