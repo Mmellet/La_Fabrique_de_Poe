@@ -30,10 +30,49 @@ traductor = "Charles Baudelaire"
 <br>
 
 Vers minuit environ, pendant une nuit du mois d’octobre, sous le règne chevaleresque d’[Édouard III](https://fr.wikipedia.org/wiki/%C3%89douard_III), deux matelots appartenant à l’équipage du _Free-and-Easy_, goëlette de commerce faisant le service entre l’Écluse (Belgique) et la Tamise, et qui était alors à l’ancre dans cette rivière, furent très émerveillés de se trouver assis dans la salle d’une taverne de la paroisse Saint-André, à Londres, -- laquelle taverne portait pour enseigne la portraiture du _Joyeux Loup de mer_.
+=======
++++
+
+Le Roi Peste
+
+
+					Edgar Allan Poe
+
+
+
+
+
+A. Quantin, Paris, 1884
+
+
+
+
+
+
+
+
+LE ROI PESTE
+
+
+HISTOIRE CONTENANT UNE ALLÉGORIE
+
+
+
+
+
+Les dieux souffrent et autorisent fort bien chez les rois les choses qui leur font horreur dans les chemins de la canaille. Buckhurst. — Ferrex et Porrex.
+
+
+
+
+
+Vers minuit environ, pendant une nuit du mois d’octobre, sous le règne chevaleresque d’Édouard III, deux matelots appartenant à l’équipage du Free-and-Easy, goëlette de commerce faisant le service entre l’Écluse (Belgique) et la Tamise, et qui était alors à l’ancre dans cette rivière, furent très émerveillés de se trouver assis dans la salle d’une taverne de la paroisse Saint-André, à Londres, — laquelle taverne portait pour enseigne la portraiture du Joyeux Loup de mer.
+
 
 La salle, quoique mal construite, noircie par la fumée, basse de plafond, et ressemblant d’ailleurs à tous les cabarets de cette époque, était néanmoins, dans l’opinion des groupes grotesques de buveurs disséminés çà et là, suffisamment bien appropriée à sa destination.
 
 De ces groupes, nos deux matelots formaient, je crois, le plus intéressant, sinon le plus remarquable.
+
 
 Celui qui paraissait être l’aîné, et que son compagnon appelait du nom caractéristique de _Legs_&nbsp;(jambes), était aussi de beaucoup le plus grand des deux. Il pouvait bien avoir six pieds et demi, et une courbure habituelle des épaules semblait la conséquence nécessaire d’une aussi prodigieuse stature. -- Son superflu en hauteur était néanmoins plus que compensé par des déficits à d’autres égards. Il était excessivement maigre, et il aurait pu, comme l’affirmaient ses camarades, remplacer, quand il était ivre, une flamme de tête de mât, et à jeun le bout-dehors du foc. Mais évidemment ces plaisanteries et d’autres analogues n’avaient jamais produit aucun effet sur les muscles cachinnatoires du loup de mer. Avec ses pommettes saillantes, son grand nez de faucon, son menton fuyant, sa mâchoire inférieure déprimée et ses énormes yeux blancs protubérants, l’expression de sa physionomie, quoique empreinte d’une espèce d’indifférence bourrue pour toutes choses, n’en était pas moins solennelle et sérieuse, au delà de toute imitation et de toute description.
 
@@ -137,4 +176,5 @@ Toutefois, le grand matelot ne vit pas avec résignation la déconfiture de son 
 [^2]: N.d.T.&nbsp;: Pas de crédit.
 
 [^3]: N.d.É.&nbsp;: Vive l'alcool.
+
 

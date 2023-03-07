@@ -75,6 +75,17 @@ video {
   margin: 0;
   padding: 0
 }
+/* ajustement position sup (exposants) */
+sup {
+  font-size: 70%;
+  margin: 0 0.15em;
+  vertical-align: top;
+}
+
+/* ajout d'un peu d'espace entre les paragraphes des nouvelles */
+.post-content p + p {
+  margin-top: 1em;
+}
 
 article,
 aside,
