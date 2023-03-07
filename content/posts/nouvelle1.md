@@ -4,13 +4,14 @@ date = "2023-02-21T10:01:00.000+00:00"
 title = "Le Démon de la perversité" 
 weight = 2 
 chapitre = "oui" 
+editor = "Alaska Malo"
 +++
 
 
 # LE DÉMON DE LA PERVERSITÉ
-**traduction par Charles Baudelaire en 1856 pour le recueil *Nouvelles histoires extraordinaires* [^1]**
+**traduction par [Charles Baudelaire](https://fr.wikipedia.org/wiki/Charles_Baudelaire) en 1856 pour le recueil *Nouvelles histoires extraordinaires* [^1]**
 
-
+![image](/static/images/Poe's_Tales_of_Mystery-Rackham-025.png)
 
 Dans l’examen des facultés et des penchants, — des mobiles primordiaux de l’âme humaine, — les phrénologistes ont oublié de faire une part à une tendance qui, bien qu’existant visiblement comme sentiment primitif, radical, irréductible, a été également omise par tous les moralistes qui les ont précédés. Dans la parfaite infatuation de notre raison, nous l’avons tous omise. Nous avons permis que son existence échappât à notre vue, uniquement par manque de croyance, — de foi, — que ce soit la foi dans la révélation ou la foi dans la cabale. L’idée ne nous en est jamais venue, simplement à cause de sa qualité surérogatoire. Nous n’avons pas senti le besoin de constater cette impulsion, — cette tendance. Nous ne pouvions pas en concevoir la nécessité. Nous ne pouvions pas saisir la notion de ce *primum mobile*, et, quand même elle se serait introduite de force en nous, nous n’aurions jamais pu comprendre quel rôle il jouait dans l’économie des choses humaines, temporelles ou éternelles. Il est impossible de nier que la phrénologie et une bonne partie des sciences métaphysiques ont été brassées *à priori*. L’homme de la métaphysique ou de la logique, bien plutôt que l’homme de l’intelligence et de l’observation, prétend concevoir les desseins de Dieu, — lui dicter des plans. Ayant ainsi approfondi à sa pleine satisfaction les intentions de Jéhovah, d’après ces dites intentions, il a bâti ses innombrables et capricieux systèmes. En matière de phrénologie, par exemple, nous avons d’abord établi, assez naturellement d’ailleurs, qu’il était dans les desseins de la Divinité que l’homme mangeât. Puis nous avons assigné à l’homme un organe d’alimentivité, et cet organe est le fouet avec lequel Dieu contraint l’homme à manger, bon gré, mal gré. En second lieu, ayant décidé que c’était la volonté de Dieu que l’homme continuât son espèce, nous avons découvert tout de suite un organe d’amativité. Et ainsi ceux de la combativité, de l’idéalité, de la causalité, de la constructivité, — bref, tout organe représentant un penchant, un sentiment moral ou une faculté de la pure intelligence. Et, dans cet emménagement des principes de l’action humaine, des spurzheimistes[^3], à tort ou à raison, en partie ou en totalité, n’ont fait que suivre, en principe, les traces de leurs devanciers ; déduisant et établissant chaque chose d’après la destinée préconçue de l’homme et prenant pour base les intentions de son Créateur.
 
