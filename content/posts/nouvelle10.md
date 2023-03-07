@@ -7,7 +7,8 @@ chapitre = "oui"
 editor = "Gabrielle Lahaie"
 +++
 
-[!image](/images/four-beasts-in-one-the-homo-cameleopard.jpg)
+
+![image](/images/four-beasts-in-one-the-homo-cameleopard.jpg)
 
 
 
@@ -20,6 +21,7 @@ editor = "Gabrielle Lahaie"
 
 
 >Chacun a ses vertus. Crébillon. — Xerxès.
+
 
 
 
@@ -115,7 +117,9 @@ Qui font la grande gloire de cette cité.
 
 >Tantum vini habet nemo
 
->Quantum sanguinis effudit [^1].
+
+>Quantum sanguinis effudit[^1].
+
 
 
 « Ce qui peut être ainsi paraphrasé :
