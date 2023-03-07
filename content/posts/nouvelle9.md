@@ -4,28 +4,28 @@ date = "2023-03-05T10:01:00.000+00:00"
 title = "Lionnerie"
 weight = 10
 chapitre = "oui"
-editor = Esther Favroux
-author = Edgar Allan Poe
-printer = A. Quantin
+editor = "Esther Favroux"
+author = "Edgar Allan Poe"
+printer = "A. Quantin"
 +++
 
 #Lionnerie
 
 
 
-Edgar Allan Poe
+"Edgar Allan Poe"
 
 
 
 
 
-A. Quantin, Paris, 1884
+"A. Quantin", Paris, 1884
 
 
 ![Edgar Allan Poe](https://commons.wikimedia.org/wiki/File:Edgar_Allan_Poe;_a_Centenary_Tribute_-_Portrait_of_Edgar_Allan_Poe_p40.png)
 
 
-LIONNERIE
+##LIONNERIE
 
 
 
