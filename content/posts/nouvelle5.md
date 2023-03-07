@@ -11,7 +11,7 @@ editor = "Marie Perreault"
 
 
 
-![Image](images/Bérénice_Nouvelles_Histoires_extraordinaires,_p73.jpg)
+![Image](/images/Bérénice_Nouvelles_Histoires_extraordinaires,_p73.jpg)
 
 
 # BÉRÉNICE
