@@ -9,20 +9,7 @@ author = "Edgar Allan Poe"
 printer = "A. Quantin"
 +++
 
-# Lionnerie
-
-
-
-Edgar Allan Poe
-
-
-
-
-
-A. Quantin, Paris, 1884
-
-
-![Edgar Allan Poe](https://commons.wikimedia.org/wiki/File:Edgar_Allan_Poe;_a_Centenary_Tribute_-_Portrait_of_Edgar_Allan_Poe_p40.png)
+![Edgar Allan Poe](388px-Edgar_Allan_Poe;_a_Centenary_Tribute_-_Portrait_of_Edgar_Allan_Poe_p40.png)
 
 
 ## LIONNERIE
@@ -246,4 +233,4 @@ Je me sentis très mortifié de tout cela, et j’allai voir mon père.
 —- Mon fils, répliqua-t-il, c’est toujours l’étude de la nosologie ; mais, en frappant l’électeur au nez, vous avez dépassé votre but. Vous avez un fort beau nez, c’est vrai ; mais Bluddennuff n’en a plus. Vous êtes sifflé, et il est devenu le héros du jour. Je vous accorde que, dans Fum-Fudge, la grandeur d’un lion est proportionnelle à la dimension de sa trompe ; -— mais, bonté divine ! il n’y a pas de rivalité possible avec un lion qui n’en a pas du tout. »
 
 
-↑ [^1]:Nose, nez. —- Naseaulogie, nosologie. —- C. B.
+[^1]: Nose, nez. —- Naseaulogie, nosologie. —- C. B.
