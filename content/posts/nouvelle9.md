@@ -246,6 +246,7 @@ Je me sentis très mortifié de tout cela, et j’allai voir mon père.
 —- Mon fils, répliqua-t-il, c’est toujours l’étude de la nosologie ; mais, en frappant l’électeur au nez, vous avez dépassé votre but. Vous avez un fort beau nez, c’est vrai ; mais Bluddennuff n’en a plus. Vous êtes sifflé, et il est devenu le héros du jour. Je vous accorde que, dans Fum-Fudge, la grandeur d’un lion est proportionnelle à la dimension de sa trompe ; -— mais, bonté divine ! il n’y a pas de rivalité possible avec un lion qui n’en a pas du tout. »
 
 
-
 ↑ [^1]:Nose, nez. —- Naseaulogie, nosologie. —- C. B.
+
+
 

@@ -32,11 +32,8 @@ Exporté de Wikisource le 21 février 2023
 
 
 
-
-
-Quelle heure est-il ? 
-*Vieille locution*.
-
+Quelle heure est-il ?									
+*Vieille locution*
 
 
 
@@ -51,7 +48,7 @@ Malgré l’obscurité qui enveloppe ainsi la date de la fondation de Vondervott
 
 Autour de la lisière de la vallée (qui est tout à fait unie et pavée dans toute son étendue de tuiles plates) s’étend un rang continu de soixante petites maisons. Elles sont appuyées par derrière sur les collines, et naturellement elles regardent toutes le centre de la plaine, qui est juste à soixante yards de la porte de face de chaque habitation. Chaque maison a devant elle un petit jardin, avec une allée circulaire, un cadran solaire et vingt-quatre choux. Les constructions elles-mêmes sont si parfaitement semblables, qu’il est impossible de distinguer l’une de l’autre. À cause de son extrême antiquité, le style de l’architecture est quelque peu bizarre ; mais, pour cette raison même, il n’est que plus remarquablement pittoresque. Elles sont faites de petites briques bien durcies au feu, rouges avec des coins noirs, de sorte que les murs ressemblent à un échiquier dans de vastes proportions. Les pignons sont tournés du côté de la façade, et il y a des corniches, aussi grosses que le reste de la maison, aux rebords des toits et aux portes principales. Les fenêtres sont étroites et profondes, avec de tout petits carreaux et force châssis. Le toit est recouvert d’une multitude de tuiles à oreillettes roulées. La charpente est partout d’une couleur sombre, très ouvragée, mais avec peu de variété dans les dessins ; car, de temps immémorial, les sculpteurs en bois de Vondervotteimittiss n’ont jamais su tailler plus de deux objets, — une horloge et un chou. Mais ils les font admirablement bien, et ils les prodiguent avec une singulière ingéniosité, partout où ils trouvent une place pour le ciseau.
 
-Les habitations se ressemblent autant à l’intérieur qu’au dehors, et l’ameublement est façonné d’après un seul modèle. Le sol est pavé de tuiles carrées, les chaises et les tables sont en bois noir, avec des pieds tors, grêles, et amincis par le bas. Les cheminées sont larges et hautes, et n’ont pas seulement des horloges et des choux sculptés sur la face de leurs chambranles, mais elles supportent au milieu de la tablette une véritable horloge qui fait un prodigieux tic tac, avec deux pots à fleurs contenant chacun un chou, qui se tient ainsi à chaque bout en manière de chasseur ou de piqueur. Entre chaque chou et l’horloge, il y a encore un petit magot chinois à grosse panse avec un grand trou au milieu, à travers lequel apparaît le cadran d’une montre.
+Les habitations se ressemblent autant à l’intérieur qu’au dehors, et l’ameublement est façonné d’après un seul modèle. Le sol est pavé de tuiles carrées, les chaises et les tables sont en bois noir, avec des pieds tors, grêles, et amincis par le bas. Les cheminées sont larges et hautes, et n’ont pas seulement des horloges et des choux sculptés sur la face de leurs chambranles, mais elles supportent au milieu de la tablette une véritable horloge qui fait un prodigieux tic tac, avec deux pots à fleurs contenant chacun un chou, qui se tient ainsi à chaque bout en manière de chasseur ou de piqueur. Entre chaque chou ![image](/images/choux.png) et l’horloge, il y a encore un petit magot chinois à grosse panse avec un grand trou au milieu, à travers lequel apparaît le cadran d’une montre.
 
 Les foyers sont vastes et profonds, avec des chenets farouches et contournés. Il y a constamment un grand feu et une énorme marmite dessus, pleine de choucroute et de porc, que la bonne femme de la maison surveille incessamment. C’est une grosse et vieille petite dame, aux yeux bleus et à la face rouge, qui porte un immense bonnet, semblable à un pain de sucre, agrémenté de rubans de couleur pourpre et jaune. Sa robe est de tiretaine orangée, très ample par derrière et très courte de taille, — et fort courte en vérité sous d’autres rapports, car elle ne descend pas à mi-jambe. Ces jambes sont quelque peu épaisses, ainsi que les chevilles, mais elles sont revêtues d’une belle paire de bas verts. Ses souliers — de cuir rose — sont attachés par un nœud de rubans jaunes épanouis et fripés en forme de chou. Dans sa main gauche, elle tient une lourde petite montre hollandaise ; de la droite, elle manie une grande cuiller pour la choucroute et le porc. À côté d’elle se tient un gros chat moucheté, qui porte à sa queue une montre-joujou en cuivre doré, à répétition, que les garçons lui ont ainsi attachée en manière de farce.
 
@@ -97,7 +94,7 @@ J’ai peint l’état heureux de Vondervotteimittiss ; hélas ! quelle grande p
 
 C’est depuis bien longtemps un dicton accrédité parmi les plus sages habitants, que *rien de bon ne peut venir d’au delà des collines*, et vraiment il faut croire que ces mots contenaient en eux quelque chose de prophétique. Il était midi moins cinq, — avant-hier, — quand apparut un objet d’un aspect bizarre au sommet de la crête, — du côté de l’est. Un tel événement devait attirer l’attention universelle, et chaque vieux petit monsieur assis dans son fauteuil à fond de cuir tourna l’un de ses yeux, avec l’ébahissement de l’effroi, sur le phénomène, gardant toujours l’autre œil fixé sur l’horloge du clocher.
 
-Il était midi moins trois minutes, quand on s’aperçut que le singulier objet en question était un jeune homme tout petit, et qui avait l’air étranger. Il descendait la colline avec une très grande rapidité, de sorte que chacun put bientôt le voir tout à son aise. C’était bien le plus précieux petit personnage qui se fût jamais fait voir dans Vondervotteimittiss. Il avait la face d’un noir de tabac, un long nez crochu, des yeux comme des pois, une grande bouche et une magnifique rangée de dents qu’il semblait jaloux de montrer en ricanant d’une oreille à l’autre. Ajoutez à cela des favoris et des moustaches, il n’y avait, je crois, plus rien à voir de sa figure. Il avait la tête nue, et sa chevelure avait été soigneusement arrangée avec des papillotes. Sa toilette se composait d’un habit noir collant terminé en queue d’hirondelle, laissant pendiller par l’une de ses poches un long bout de mouchoir blanc, — de culottes de casimir noir, de bas noirs, et d’escarpins qui ressemblaient à des moitiés de souliers, avec d’énormes bouffettes de ruban de satin noir pour cordons. Sous l’un de ses bras, il portait un vaste claque, et sous l’autre, un violon presque cinq fois gros comme lui. Dans sa main gauche était une tabatière en or, où il puisait incessamment du tabac de l’air le plus glorieux du monde, pendant qu’il cabriolait en descendant la colline, et dessinait toutes sortes de pas fantastiques. Bonté divine ! — c’était là un spectacle pour les honnêtes bourgeois de Vondervotteimittiss !
+Il était midi moins trois minutes, quand on s’aperçut que le singulier objet en question était un jeune homme tout petit, et qui avait l’air étranger. Il descendait la colline avec une très grande rapidité, de sorte que chacun put bientôt le voir tout à son aise. C’était bien le plus précieux petit personnage qui se fût jamais fait voir dans Vondervotteimittiss. Il avait la face d’un noir de tabac, un long nez crochu, des yeux comme des pois, une grande bouche et une magnifique rangée de dents qu’il semblait jaloux de montrer en ricanant d’une oreille à l’autre. Ajoutez à cela des favoris et des moustaches, il n’y avait, je crois, plus rien à voir de sa figure. Il avait la tête nue, et sa chevelure avait été soigneusement arrangée avec des papillotes. Sa toilette se composait d’un habit noir collant terminé en queue d’hirondelle, laissant pendiller par l’une de ses poches un long bout de mouchoir blanc, — de culottes de casimir noir, de bas noirs, et d’escarpins qui ressemblaient à des moitiés de souliers, avec d’énormes bouffettes de ruban de satin noir pour cordons. Sous l’un de ses bras, il portait un vaste claque, et sous l’autre, un violon presque cinq fois gros comme lui. Dans sa main gauche était une tabatière en or, où il puisait incessamment du tabac de l’air le plus glorieux du monde, pendant qu’il cabriolait en descendant la colline, et dessinait toutes sortes de pas fantastiques. Bonté divine ! — c’était là un spectacle pour les honnêtes [bourgeois](https://www.youtube.com/watch?v=ICvSAF25roY) de Vondervotteimittiss !
 
 Pour parler nettement, le gredin avait, en dépit de son ricanement, un audacieux et sinistre caractère dans la physionomie ; et, pendant qu’il galopait tout droit vers le village, l’aspect bizarrement tronqué de ses escarpins suffit pour éveiller maints soupçons ; et plus d’un bourgeois qui le contempla ce jour-là aurait donné quelque chose pour jeter un coup d’œil sous le mouchoir de batiste blanche qui pendait d’une façon si irritante de la poche de son habit à queue d’hirondelle. Mais ce qui occasionna principalement une juste indignation fut que ce misérable freluquet, tout en brodant tantôt un fandango, tantôt une pirouette, n’était nullement *réglé* dans sa danse, et ne possédait pas la plus vague notion de ce qu’on appelle aller en mesure [^1].
 
@@ -127,7 +124,7 @@ On ne sait pas à quel acte désespéré de vengeance cette attaque révoltante 
 
 — Et il aître miti, tonc ! dirent tous les vieux petits messieurs, rempochant leurs montres. Mais la grosse cloche n’en avait pas encore fini avec eux.
 
-— Treize ! dit-elle.
+— TREIZE ! dit-elle.
 
 — Tarteifle, anhélèrent tous les vieux petits messieurs, devenant pâles et laissant tomber leurs pipes de leurs bouches et leurs jambes droites de dessus leurs genoux gauches.
 
@@ -137,7 +134,7 @@ Dois-je essayer de décrire la terrible scène qui s’ensuivit ? Tout Vondervot
 
 « Qu’arrife-d-il tonc à mon phandre ? — glapirent tous les petits garçons, — chai vaim tébouis hine heire !
 
-— Qu’arrife-d-il tonc à mes joux ? crièrent toutes les phâmes ; — ils toiffent aître en pouillie tébouis hine heire !
+— Qu’arrife-d-il tonc à mes joux ? crièrent toutes les *phâmes* ; — ils toiffent aître en pouillie tébouis hine heire !
 
 — Qu’arrife-d-il tonc à mon bibe ? jurèrent tous les vieux petits messieurs, donnerre et églairs ! il toit aître édeint tébouis hine heire ! »
 
@@ -165,11 +162,11 @@ Les affaires étant dans ce misérable état, de dégoût je quittai la place, e
 À propos de cette édition électronique
 
 
-Ce livre électronique est issu de la bibliothèque numérique Wikisource[1]. Cette bibliothèque numérique multilingue, construite par des bénévoles, a pour but de mettre à la disposition du plus grand nombre tout type de documents publiés (roman, poèmes, revues, lettres, etc.)
+Ce livre électronique est issu de la bibliothèque numérique Wikisource[^4]. Cette bibliothèque numérique multilingue, construite par des bénévoles, a pour but de mettre à la disposition du plus grand nombre tout type de documents publiés (roman, poèmes, revues, lettres, etc.)
 
-Nous le faisons gratuitement, en ne rassemblant que des textes du domaine public ou sous licence libre. En ce qui concerne les livres sous licence libre, vous pouvez les utiliser de manière totalement libre, que ce soit pour une réutilisation non commerciale ou commerciale, en respectant les clauses de la licence Creative Commons BY-SA 3.0[2] ou, à votre convenance, celles de la licence GNU FDL[3].
+Nous le faisons gratuitement, en ne rassemblant que des textes du domaine public ou sous licence libre. En ce qui concerne les livres sous licence libre, vous pouvez les utiliser de manière totalement libre, que ce soit pour une réutilisation non commerciale ou commerciale, en respectant les clauses de la licence Creative Commons BY-SA 3.0[^5] ou, à votre convenance, celles de la licence GNU FDL[^6].
 
-Wikisource est constamment à la recherche de nouveaux membres. N’hésitez pas à nous rejoindre. Malgré nos soins, une erreur a pu se glisser lors de la transcription du texte à partir du fac-similé. Vous pouvez nous signaler une erreur à cette adresse[4].
+Wikisource est constamment à la recherche de nouveaux membres. N’hésitez pas à nous rejoindre. Malgré nos soins, une erreur a pu se glisser lors de la transcription du texte à partir du fac-similé. Vous pouvez nous signaler une erreur à cette adresse[^7].
 
 Les contributeurs suivants ont permis la réalisation de ce livre :
 
@@ -183,13 +180,13 @@ Les contributeurs suivants ont permis la réalisation de ce livre :
 
 
 
-↑ http://fr.wikisource.org
+[^4]: http://fr.wikisource.org
 
-↑ http://creativecommons.org/licenses/by-sa/3.0/deed.fr
+[^5]: http://creativecommons.org/licenses/by-sa/3.0/deed.fr
 
-↑ http://www.gnu.org/copyleft/fdl.html
+[^6]: http://www.gnu.org/copyleft/fdl.html
 
-↑ http://fr.wikisource.org/wiki/Aide:Signaler_une_erreur
+[^7]: http://fr.wikisource.org/wiki/Aide:Signaler_une_erreur
 
 
 
