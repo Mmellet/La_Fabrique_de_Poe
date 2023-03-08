@@ -248,4 +248,3 @@ Je me sentis très mortifié de tout cela, et j’allai voir mon père.
 
 
 ↑ [^1]:Nose, nez. —- Naseaulogie, nosologie. —- C. B.
-
